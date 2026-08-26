@@ -26,6 +26,13 @@ The full pre-commit gate (`make verify`) and linter wiring land in v0.2.
 
 See `AGENTS.md` for the full rule set.
 
+## Documentation
+
+Step-by-step tutorial:
+
+- [English](docs/tutorial.en.md) — full walkthrough with examples
+- [中文](docs/tutorial.zh-CN.md) — 中文教程
+
 ## Versions
 
 - v0.1 — scaffold + example echo service + AGENTS.md (this version)
